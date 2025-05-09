@@ -1,0 +1,11 @@
+name = "speed" # todo
+#name = "cf-worker-connect-test" # todo
+#main = "test/worker/cf-cdn-cgi-trace2.js"
+
+#main = "test/worker/worker-connect-test.js"
+main = "src/worker-vless.js"
+
+compatibility_date = "2024-04-15"
+
+[vars]
+UUID = "0542dd75-e346-46a7-997f-d34edf242c55"
